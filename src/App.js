@@ -1,20 +1,20 @@
 import logo from './logo.svg';
-import './App.css';git commit -m "first commit"
+import './App.css';
 
 function App() {
+  <Nayok> </Nayok>
   return (
     <div className="App">
-      <Nayok></Nayok>
-      <Nayok></Nayok><Nayok></Nayok><Nayok></Nayok><Nayok></Nayok>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />        
+        <img src={logo} className="App-logo" alt="logo" />
+      
       </header>
     </div>
   );
 }
 
 function Nayok(){
-  return <h1>I am the hero</h1>
+  return <h1> The is real man </h1>
 }
 
 export default App;
